@@ -1,0 +1,11 @@
+#Env
+
+#Datasets/Models
+DATASETS/*
+MODELS/*
+!MODELS/.gitkeep
+!DATASETS/.gitkeep
+
+#Bytecode
+__pycache__/
+*.py[cod]
